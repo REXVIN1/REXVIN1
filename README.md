@@ -3,8 +3,8 @@
 Soy Kevin Gómez, 
 
 ###- 🔭 DESARROLLO DE APLICACIONES WEB Y MULTIPLATAFORMA
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 Mi objetivo actualmente es, poder crear un videojuego de móvil u otra plataforma.
+- 🎮 Me encantan los juegos y me gustaría diseñar uno.
+- 🤔 Me gustaría aportar a la comunidad y ser ayudado por ella 
 - 📫 Correo: kgomval118@g.educaand.es
-- ⚡ Instagram: kevin_g0mez
+- ⚡ Instagram: https://www.instagram.com/kevin_g0mez/
