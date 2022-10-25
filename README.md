@@ -2,7 +2,7 @@
 
 Soy Kevin Gómez, 
 
-###- 🔭 DESARROLLO DE APLICACIONES WEB Y MULTIPLATAFORMA
+- 🔭 DESARROLLO DE APLICACIONES WEB Y MULTIPLATAFORMA
 - 🌱 Mi objetivo actualmente es, poder crear un videojuego de móvil u otra plataforma.
 - 🎮 Me encantan los juegos y me gustaría diseñar uno.
 - 🤔 Me gustaría aportar a la comunidad y ser ayudado por ella 
