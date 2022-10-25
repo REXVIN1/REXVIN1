@@ -1,11 +1,11 @@
-### Hi there 👋
+### Bienvenido 👋, soy Kevin Gómez 
 
 <!--
 **REXVIN1/REXVIN1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 DESARROLLO DE APLICACIONES WEB Y MULTIPLATAFORMA
+###- 🔭 DESARROLLO DE APLICACIONES WEB Y MULTIPLATAFORMA
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
